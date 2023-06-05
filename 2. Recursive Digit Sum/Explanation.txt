@@ -1,0 +1,5 @@
+What have you learnt? 
+1. Follow the code you've written with a test case. Every single part of the code must be covered.
+2. If the title says 'recursive' the problem is highly likely to be recursive. 
+3. To split a string into a list, all you have to do is use list() function
+4. Check the data type of the input variables (It might be a hint)
