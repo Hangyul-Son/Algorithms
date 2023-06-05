@@ -1,0 +1,8 @@
+1. Take the sum of the entire array -> You at least once must go through the array -> O(n)
+2. Using a for loop for each step check whether there is a match or not. -> O(n)
+
+TC: O(n)
+SC: O(1)
+
+Improvement tip
+- No need to fully iterate the array. Can decide to stop if temp exceeds a certain value 
