@@ -1,0 +1,4 @@
+What you have learned
+1. You don't have to iterate through the whole array. If you can solve the problem by iterating half of the array, think of way to do so. 
+2. Use the built in functions. String.count(). 
+3. Some questions ask you the understanding of data structures. Don't be confused if it might be too easy. 
