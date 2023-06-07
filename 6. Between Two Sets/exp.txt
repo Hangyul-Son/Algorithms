@@ -1,0 +1,4 @@
+What you have learnt.
+1. Use of max(), min(), range()
+2. Use of all() and any().
+3. For loop inside a list. 
