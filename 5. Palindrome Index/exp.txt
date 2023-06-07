@@ -1,0 +1,7 @@
+What have you learnt?
+1. Make use of list manipulation, not for loops: s[::-1] == s
+2. You need a separate library to copy an object.
+3. If you want to iterables in a for loop, use zip() function.
+4. To modify a string in Python, you must use slicing, as it is the only option.
+5. Make sure if iterating through the entire array is necessary. 
+6. Make sure if expensive function calls are necessary.  
