@@ -1,0 +1,2 @@
+1. Recognizing the pattern in bitwise representation is doable
+2. Always remember the edge cases. Especially, 0, 1, and 'n'. Take all into considerationn when you write the code. 
