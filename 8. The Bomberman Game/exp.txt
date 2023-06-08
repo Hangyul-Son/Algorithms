@@ -1,0 +1,5 @@
+What you have learned?
+1. Try to make the problem simple. Not difficult. Don't use an extra data structure with different data types(boolean) unless it is absolutely necessary.
+2. Think about the possible states. The states can repeat in loops. Try to catch the pattern. At least write down 5~6 different states there can be. 
+3. Simulation is important. Simulate before you code. 
+4. Don't try to optimize your code until you can write the naive version out. Step by step. Do easy stuff first.
