@@ -1,0 +1,9 @@
+
+What did you learn?
+1. If you have an idea, try to expand your idea a little bit further. This time you almost made it. 
+2. If array of numbers are unsorted, sorting them in order might be the answer. 
+3. O(n^2) usually aint the answer. But once you write it down, you might have a clue for optimization.
+4. You must enjoy this process so for you to continue. What are some ways for you to enjoy problem solving?
+- Set a time limit and try your best within the time limit. If you can't solve it then go for the answers. 
+- It would be nice to repeat some of the questions, not learning new stuff every single day. This is to boost up your confidence. The world of algorithms is vast and sometimes you just have to take a rest.
+
