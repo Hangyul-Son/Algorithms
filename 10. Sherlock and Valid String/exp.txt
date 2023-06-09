@@ -1,0 +1,6 @@
+What did you learn? 
+
+1. Always use pen and paper to write down test cases. 
+2. For the code you have written, try to come up with test cases that can overthrow your code. 
+3. max() and min() operators are very useful. 
+4. mean can be experessed as sum()/len()
