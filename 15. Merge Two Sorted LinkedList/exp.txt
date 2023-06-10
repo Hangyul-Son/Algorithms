@@ -1,0 +1,4 @@
+What did I learn?
+1. Use one linkedlist as a base linkedlist. Use the other one to enter a node at a specific position.
+2. Draw out the examples. 
+3. Consider the case of which an infinite loop may occur.
