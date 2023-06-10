@@ -1,0 +1,3 @@
+What did I learn?
+1. Reversing order -> Make use of temporary variables really well. Especially with linkedlists.
+2. Save the value in a temporary variable, assign new values, use the saved variables for the next iteration. 
