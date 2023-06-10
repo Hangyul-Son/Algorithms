@@ -1,0 +1,4 @@
+What you have learned.
+
+1. If you can solve the problem, that is it. 
+2. Manipulate the data instead of the pointers. (Which should not be done in real life)
