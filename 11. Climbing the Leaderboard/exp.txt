@@ -1,0 +1,6 @@
+What did you learn?
+1. You can use pop() instead of list slicing to reduce the size of the array.
+2. instead of keeping the entire array, reduce the size and the calculation burden by using set(). 
+3. Initialize  an array of size n by "array = [0] * n"
+4. You don't have to rank the rankers, they are already in a order so all you have to do is sorted(list(set()))
+5. Use while loop instead of for loops if you aren't clear when to stop.
