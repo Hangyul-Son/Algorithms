@@ -1,0 +1,4 @@
+What did I learn?
+1. I learned using 'stack' can be a solution. Think about how data can be stored in a data structure. 
+2. If the code is messy, I recommend you to use a dictionary. It will make your life easier.
+3. IF the input is a string, there are many string manipulation methods that you can use to solve the problem.  
