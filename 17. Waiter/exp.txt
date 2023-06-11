@@ -1,0 +1,5 @@
+What did I learn?
+1. Python uses pass by object reference. The concept was simple. Basically objects pass by reference while non-objects pass by value. 
+Therefore, it is important you keep track of the variables when passing through a function or using an assignment operator
+2. Stack's pop() method takes a lot of time. I thought it was O(logn). But I guess in Python we use a normal list to handle this stuff. 
+So it might take longer than a normal stack. It might even take O(n). Therefore try reversing the list using slicing method.
