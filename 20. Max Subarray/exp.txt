@@ -1,0 +1,2 @@
+What did I learn?
+1. I took too long to solve this simple question. USE STANDARD LIBARIES. USE max() OPERATOR. PLEASE DON'T be STUPID. 
