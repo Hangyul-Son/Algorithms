@@ -1,0 +1,4 @@
+What did I learn?
+1. The usage of list.index()
+2. list.pop(0), instead of reversing the entire array. 
+3. In my opinion, the best way to solve algorithm questions is to design your algorithm using a small set of examples. Then generalize your algorithm to large set of examples.
