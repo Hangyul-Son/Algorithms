@@ -1,0 +1,3 @@
+What did you learn?
+1. Libary heapq. 
+2, Try out simple test cases. Spend more time on coming up with test cases.
