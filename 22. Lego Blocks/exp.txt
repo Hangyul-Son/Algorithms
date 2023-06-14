@@ -1,0 +1,8 @@
+What did you learn?
+1. Literally the hardest algorithm question I have ever solved.
+2. If the problem is difficult, almost impossible to solve in one go, please divide the question's requirement into pieces. Or else, you will never be able to solve it.
+3. First you must understand combinations. How can a wall of length of 8 be made? Obviously because there are only 4 types of blocks, it must be a combination of the 4. 
+z[8] = z[7]+z[6]+z[5]+z[4]
+4. Next you must calculate the number of solid walls starting from the index 1. Using DP seemed obvious, but not in this way to be honest.
+
+Lets solve this question in the future once again.
