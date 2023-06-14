@@ -1,0 +1,3 @@
+What did you learn?
+1. Infinity doesn't require a library. All you need is a value that is 1 bigger thant the max of input.
+2. How to implement a heap from scratch. Helped a lot in understanding its operations. 
