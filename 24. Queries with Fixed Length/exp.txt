@@ -1,0 +1,3 @@
+What did I learn?
+1. To be honest, this problem was quite solvable. I just needed to follow the logic. If I meet a similar question in the future, I will use all kinds of data structures.
+2. Using 'deque' was required. Learned how to import collections and deque package.
