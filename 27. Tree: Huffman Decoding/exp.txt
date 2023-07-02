@@ -1,0 +1,3 @@
+What have I learned?
+
+1. Always check the source code (The code you haven't wrote). There might be many surprising things over there.
