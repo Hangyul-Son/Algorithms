@@ -1,0 +1,4 @@
+What I learned.
+
+1. Try to come up with three different solutions if you encounter a difficult problem. An extension of one of the solutions is probably the answer to the question.
+2. Before implementation, understand the logic with small examples first. 
