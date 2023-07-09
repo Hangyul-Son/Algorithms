@@ -1,0 +1,3 @@
+What I learnt.
+1. The purpose of this question seemed as if it wanted us to use BFS. Right? And the solution was quite obvious. My focus was on the wrong thing. I should have not focused on the ordering of the cities. The approach was entirely wrong. Instead, the focus should have been, "what kind of algorithms can I use to achieve grouping of the cities?" Considering the the links were already there I could have created an adjacency list.
+2. Logical process is important. How are you going to count the number of connected groups? -> BFS. What do you need to use BFS? -> Adjacyncy list. How are you going to create an adjacency list? -> Using the cities connected lines coordinates.
